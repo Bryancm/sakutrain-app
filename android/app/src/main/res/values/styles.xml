@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">#D4D4D4</item>
+        <item name="android:navigationBarColor">#051338</item>
+        <item name="colorPrimaryDark">#051338</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowBackground">#051338</item>
+    </style>
+    <style name="SplashScreenTheme" parent="SplashScreen_SplashTheme">
+        <item name="colorPrimaryDark">#051338</item>
+        <item name="android:textColor">#D4D4D4</item>
+        <item name="android:navigationBarColor">#051338</item>
+        <item name="android:background">#051338</item>
+        <item name="android:windowBackground">#051338</item>
+    </style>
+    <style name="AlertDialog" parent="Base.Theme.AppCompat.Light.Dialog">
+        <item name="android:textColor">#D4D4D4</item>
+        <item name="android:textColorPrimary">#D4D4D4</item>
+        <item name="android:colorAccent">#D4D4D4</item>
+        <item name="colorPrimaryDark">#051338</item>
+        <item name="android:navigationBarColor">#051338</item>
+        <item name="android:background">#051338</item>
+        <item name="android:windowBackground">#051338</item>
+    </style>
+</resources>
