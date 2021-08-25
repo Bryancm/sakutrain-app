@@ -7,10 +7,10 @@
 ## Screenshots
 
 <div style="display:flex;flex-direction:row;" >
-  <img src="https://raw.githubusercontent.com/Bryancm/sakutrain/main/assets/0.png?token=AEI2HV47WWOCVN3U33NWS33BDLK22" width="260" height="589" />
-  <img src="https://raw.githubusercontent.com/Bryancm/sakutrain/main/assets/1.png?token=AEI2HV47WWOCVN3U33NWS33BDLK22" width="260" height="589" />
-  <img src="https://raw.githubusercontent.com/Bryancm/sakutrain/main/assets/2.png?token=AEI2HV47WWOCVN3U33NWS33BDLK22" width="260" height="589" />
-  <img src="https://raw.githubusercontent.com/Bryancm/sakutrain/main/assets/3.png?token=AEI2HV47WWOCVN3U33NWS33BDLK22" width="260" height="589" /> 
+  <img src="https://raw.githubusercontent.com/Bryancm/sakutrain-app/main/assets/0.png" width="260" height="589" />
+  <img src="https://raw.githubusercontent.com/Bryancm/sakutrain-app/main/assets/1.png" width="260" height="589" />
+  <img src="https://raw.githubusercontent.com/Bryancm/sakutrain-app/main/assets/2.png" width="260" height="589" />
+  <img src="https://raw.githubusercontent.com/Bryancm/sakutrain-app/main/assets/3.png" width="260" height="589" /> 
 </div>
 
 
